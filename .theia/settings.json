@@ -1,0 +1,15 @@
+{
+    "cpp.buildConfigurations": [
+       {
+          "name": "Debug",
+          "directory": "/workspace/fresher-round2-C/build"
+       }
+    ],
+    "cpp.clangdArgs": "--background-index",
+    "cpp.clangdExecutable": "/usr/bin/clangd",
+    "cpp.clangTidy": true,
+    "cpp.clangTidyChecks": "*",
+    "cpp.trace.server": "verbose",
+    "editor.autoSave": "on",
+    "editor.autoSaveDelay": 500
+ }
